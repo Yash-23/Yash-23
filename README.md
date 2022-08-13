@@ -1,7 +1,7 @@
 ### Hi there, I'm Yash 👋
 
 ### I'm a Student and Developer!!
-- 🔭 I’m currently working on LeafyIsland Portal Website.
+- 🔭 I’m currently a Student.
 - 🌱 I’m currently learning everything 😂.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play guitar.

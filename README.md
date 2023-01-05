@@ -2,7 +2,7 @@
 
 ### I'm a Student and Developer!!
 - 🔭 I’m currently a Student.
-- 🌱 I’m currently learning everything 😂.
+- 🌱 I’m currently learning everything.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play guitar.
 

@@ -1,4 +1,4 @@
-### Hi there, I'm Yash 👋
+## Hi there, I'm Yash 👋
 
 ![code](https://user-images.githubusercontent.com/56184312/218647288-97780587-4eaf-4aa8-883a-f502dff135ad.gif)
 

@@ -20,7 +20,9 @@
 - 🌱 I’m currently learning everything.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play guitar.
-- 📫 How to reach me: </a>
+
+
+</a>
 <a href="https://twitter.com/YashSakle">
   <img align="left" alt="Yash Sakle | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>

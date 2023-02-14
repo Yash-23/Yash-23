@@ -1,7 +1,8 @@
 
-<p align="center">
+
+<div align="center">
    <h1>Hi there, I'm Yash 👋</h1>  
-</p>
+</div>
 
 
 ### I'm a Student and Developer!!

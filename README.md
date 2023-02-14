@@ -1,6 +1,7 @@
 ### Hi there, I'm Yash 👋
 
-![image](https://user-images.githubusercontent.com/56184312/218647092-22bf02ce-ea21-47dd-b413-fc809deb9719.png)
+![code](https://user-images.githubusercontent.com/56184312/218647288-97780587-4eaf-4aa8-883a-f502dff135ad.gif)
+
 
 ### I'm a Student and Developer!!
 - 🔭 I’m currently a Student.

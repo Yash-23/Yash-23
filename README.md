@@ -4,6 +4,10 @@
    <h1>Hi there, I'm Yash 👋</h1>  
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Yash" width="300"/>
+</div>
+
 
 ### I'm a Student and Developer!!
 - 🔭 I’m currently a Student.

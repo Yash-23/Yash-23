@@ -10,11 +10,11 @@
    <h1>Student | Full-Stack Developer</h1>  
 </div>
 
-
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Yash" width="300"/>
 </div>
-
+-->
 
 - 🔭 I’m currently a Student.
 - 🌱 I’m currently learning everything.

@@ -20,14 +20,14 @@
 - 🌱 I’m currently learning everything.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play guitar.
-- - 📫 How to reach me: 
-</a>
+- 📫 How to reach me: </a>
 <a href="https://twitter.com/YashSakle">
   <img align="left" alt="Yash Sakle | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yash-sakle/">
   <img align="left" alt="Yash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 
 <!--
 **Yash-23/Yash-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

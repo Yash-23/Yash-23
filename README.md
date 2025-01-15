@@ -16,7 +16,7 @@
 </div>
 -->
 
-- 🔭 I’m currently a Student.
+- 🔭 I’m currently working at Yatra Online Limited as Backend Engineer.
 - 🌱 I’m currently learning everything.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play guitar.

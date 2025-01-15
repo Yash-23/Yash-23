@@ -7,7 +7,7 @@
 
 
 <div align="center">
-   <h1>Student | Full-Stack Developer</h1>  
+   <h1>SDE-1 | Backend Engineer</h1>  
 </div>
 
 <!--
